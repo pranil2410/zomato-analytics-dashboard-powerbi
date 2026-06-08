@@ -74,22 +74,6 @@ Demo Video available in the VIDEO folder.
 
 ---
 
-## Screenshots
-
-### Overview Dashboard
-
-(Add Image)
-
-### Performance Analysis Dashboard
-
-(Add Image)
-
-### Business Insights Dashboard
-
-(Add Image)
-
----
-
 ## Author
 
 Pranil
